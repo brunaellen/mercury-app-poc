@@ -7,6 +7,9 @@ Non-technical users can tweak widgets and execute notebook with new parameters.
  
 You can find more information in the following link: https://mljar.com/mercury/
 
+## What does the application do?
+The application converts images into sketches in Jupyter Notebook with the usage of OpenCV package.
+
 ## Getting started:
 You need to have Python 3.7 or a higher version.
 
